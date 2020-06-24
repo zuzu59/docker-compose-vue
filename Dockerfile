@@ -1,4 +1,6 @@
-FROM node:9.11.1-alpine
+#zf200624.1013
+#FROM node:9.11.1-alpine
+FROM node:14.4.0-alpine
 
 # install simple http server for serving static content
 RUN npm install -g http-server
