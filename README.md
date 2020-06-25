@@ -1,11 +1,13 @@
 # docker-compose-vue
-zf200624.1023
+zf200625.1014
 
 <!-- TOC titleSize:2 tabSpaces:2 depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 skip:1 title:1 charForUnorderedList:* -->
 ## Table of Contents
 * [Build Setup](#build-setup)
 * [Remarques](#remarques)
 * [Utilisation](#utilisation)
+* [Documentation](#documentation)
+  * [Insert Update and Delete records from MySQL with Vue.js](#insert-update-and-delete-records-from-mysql-with-vuejs)
 <!-- /TOC -->
 
 A simple docker-compose vue with the template from https://github.com/vuejs-templates/webpack.
@@ -44,3 +46,12 @@ En **temps réel** on doit pouvoir voir sur la page WEB la modification faite !
 
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+## Documentation
+### Insert Update and Delete records from MySQL with Vue.js
+
+https://makitweb.com/insert-update-delete-records-from-mysql-with-vue-js/
+
+
+
